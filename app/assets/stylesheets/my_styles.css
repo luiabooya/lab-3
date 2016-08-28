@@ -1,10 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
 html, body {
-	font-family: Arial;
-	font-size: 14px;
-	/* DEFAULT TEXT SETTINGS HERE */
-	
+/*	font-family: Tahoma;*/
+	font-size: 14px;	
 }
 
 #wrap {
